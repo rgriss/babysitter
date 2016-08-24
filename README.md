@@ -1,10 +1,12 @@
 # The Babysitter Kata
 
-This repo contains one solution to "the babysitter" code kata, described below:
+This repo contains one solution to "the babysitter" code kata, as described below.
+
+Personally, I used testem and Jasmine as my testrunner and testing framework, respectively.
+
+To run the tests, simply run testem from the command line at the root of this project. Open http://localhost:7357/ in a browser (for example) and enjoy.
 
 source: https://gist.github.com/jameskbride/5482722
-
-Babysitter Kata
 
 Background
 ----------
